@@ -1,7 +1,7 @@
 .profile-pic {
 	max-width: 100%;}
 .custom-progress-bar-pink {
-	background-color: hotpink;
+	background-color: #ffbbb5;
 	}
 .video-class {
 	float: left;
@@ -11,10 +11,34 @@
 	margin-top: 100px;
 	}
 .custom-nav {
-	background-color: #f232b2;
+	background-color: #ffbbb5;
 	}
 .nav-link {
 	color: white; 
 	}
 .nav-link {font-size: 30px;
 	}
+
+.hero {
+	background-image: url("../img/cats.jpg");
+	background-position: center center;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.display-1 {
+	color: white;
+}
+.display-4 {
+	color: white;
+ }
+ .card {
+ 	border: none;
+ }
+ .card-footer {
+ 	background: none;
+ }
+ .card-footer {
+ 	border: none;
+ }
